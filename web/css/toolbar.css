@@ -1,0 +1,10 @@
+#dm_toolbar_wrap {
+  background: url(../images/toolbar/bg.png) top left repeat-x;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 26px;
+  width: 100%;
+  z-index: 1;
+  padding: 3px 0 0 10px;
+}

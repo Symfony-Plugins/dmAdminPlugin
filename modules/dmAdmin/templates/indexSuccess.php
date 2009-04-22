@@ -1,0 +1,3 @@
+<?php
+
+dmDebug::show($modules);
